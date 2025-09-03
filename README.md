@@ -154,7 +154,7 @@ Please cite both this repository and the dataset if you use the code or figures.
 ```bibtex
 @misc{dp_sth_solar_wind_2025,
   title  = {DP-STH: Dual-Purpose Spatio-Temporal Hybrid for Solar and Wind Power Forecasting},
-  author = {Tulegenova, Gulnaz and collaborators},
+  author = {Tulegenova Gulnaz},
   year   = {2025},
   url    = {https://github.com/gulnaztolegenova/solar-wind-energy-forecasting-dp-sth}
 }
